@@ -7,3 +7,4 @@ COPY ./webapp.war /usr/local/tomcat/webapps
 abc
 Pull
 Push
+merge
